@@ -1,0 +1,81 @@
+#head{
+    background-color:rgb(244, 244, 238);
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: slategray solid 0.3rem;
+}
+#subhead{
+    display: flex;
+    justify-content: space-between;
+    width: 62em;
+    z-index: 1; 
+    flex-wrap: wrap;
+    flex-grow: initial;
+}
+#name{
+    background-color: rgb(202, 202, 226); 
+    z-index: 2; 
+    padding: 0em 0em 0em 2em; 
+}
+#nav{
+    margin-top: 2em;
+    display: flex;
+    z-index: 3;
+    flex-basis: 40%;
+    height: 4em;   
+}
+#about{
+    margin: 0em 0.5em 0em 0.7em;
+}
+#portfolio{
+    margin: 0em 0.5em 0em 0.5em;
+}
+#contact{ 
+    margin: 0em 0.7em 0em 0.5em;
+}
+
+.linkbox{
+    flex: 1;
+    text-align: center;  
+}
+#name{   
+    text-align: center; 
+}
+h1{
+    font-size: 3rem;
+    color: rgb(244, 244, 238);
+    padding: 0em;
+    margin:0em;
+    font-weight: bold; 
+    background-color: rgb(202, 202, 226);   
+} 
+h2{
+    font-size: 2rem;
+    color: rgb(202, 202, 226);
+    background-color: rgb(244, 244, 238);  
+} 
+#h11{
+
+  font-size: 3rem;
+  margin-top: 0.5em;  
+}
+.h22{
+    font-size: 2.2em;
+}
+.line{
+    width: 0.1em;
+    margin: 0.0em .5em 0em .5em;
+    border-left: solid;
+    height: 2.5em;
+    align-items: center;
+}
+
+#portfolio{
+    border: 0px 1px 0px 1px;
+   
+
+}
+.submit{
+    text
+}
